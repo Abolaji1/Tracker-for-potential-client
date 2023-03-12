@@ -6,6 +6,7 @@
         "default_popup": "roughwork.html",
         "default_icon": "icon.png"
     },
+    
     "permissions" : [
         "tabs"
     ]

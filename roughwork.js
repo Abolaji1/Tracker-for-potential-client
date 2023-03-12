@@ -1,5 +1,7 @@
 let myLeads = []
+
 let oldLeads = []
+
 const inputEl = document.getElementById("inputel")
 const displayleadEl = document.getElementById("displaylead")
 
